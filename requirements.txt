@@ -5,3 +5,4 @@ joblib
 tensorflow
 Pillow
 huggingface_hub
+scikit-learn
